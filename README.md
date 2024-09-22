@@ -11,6 +11,8 @@ This project is designed to assist farmers in identifying and treating crop dise
 The project is still under development and will undergo further enhancements to make it more robust and user-friendly. It aims to simplify farming decisions using AI, even for farmers who are not familiar with technology.
 
 ---
+![logo](https://github.com/user-attachments/assets/338fbc1a-83cf-4434-b2cb-d555a9e27475)
+
 
 ## **Key Features**
 
